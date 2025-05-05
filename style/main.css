@@ -90,9 +90,9 @@ html {
   mix-blend-mode: multiply;
   position: fixed;
   z-index: 2;
-  width: 85%;
-  padding-bottom: 7dvh;
-  padding-top: 14dvh;
+  width: 95%;
+  padding-bottom: 6dvh;
+  padding-top: 13.5dvh;
   margin-left: 50%;
   transform: translate(-50%,0);
 }
@@ -396,9 +396,9 @@ text-decoration: none;
   mix-blend-mode: multiply;
   position: fixed;
   z-index: 2;
-  width: 85%;
-  padding-bottom: 10dvh;
-  padding-top: 18dvh;
+  width: 90%;
+  padding-bottom: 8dvh;
+  padding-top: 17.5dvh;
   margin-left: 50%;
   transform: translate(-50%,0);
 }
