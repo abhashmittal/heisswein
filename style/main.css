@@ -91,8 +91,8 @@ html {
   position: fixed;
   z-index: 2;
   width: 95%;
-  padding-bottom: 6dvh;
-  padding-top: 13.5dvh;
+  padding-bottom: 2dvh;
+  padding-top: 2.5dvh;
   margin-left: 50%;
   transform: translate(-50%,0);
 }
@@ -397,8 +397,8 @@ text-decoration: none;
   position: fixed;
   z-index: 2;
   width: 90%;
-  padding-bottom: 8dvh;
-  padding-top: 17.5dvh;
+  padding-bottom: 3dvh;
+  padding-top: 3.5dvh;
   margin-left: 50%;
   transform: translate(-50%,0);
 }
@@ -774,8 +774,8 @@ text-decoration: none;
   position: fixed;
   z-index: 2;
   width: 85%;
-  padding-bottom: 10dvh;
-  padding-top: 18dvh;
+  padding-bottom: 5dvh;
+  padding-top: 5dvh;
   margin-left: 50%;
   transform: translate(-50%,0);
 }
